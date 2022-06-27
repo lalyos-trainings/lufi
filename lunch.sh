@@ -1,2 +1,2 @@
 echo lets go lunch
-echo gimme a pacal
+echo please, gimme a pacal
