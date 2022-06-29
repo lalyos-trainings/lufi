@@ -6,3 +6,7 @@ echo to drink: coffee and ...
 
 echo matyas: carrot cake
 echo matyas: to drink: lemonade
+
+echo niki: zoldbabfozelek
+echo drink something ...
+
