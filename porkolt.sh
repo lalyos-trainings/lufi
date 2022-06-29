@@ -1,0 +1,1 @@
+echo "porkolt keszizes"
