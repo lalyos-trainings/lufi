@@ -1,1 +1,1 @@
-echo "porkolt keszizes"
+echo "Price 1500"
